@@ -12,7 +12,7 @@ const About = () => {
         </div>
         <div className='w-full md:w-2/4 text-center space-y-2 mx-16'>
             <Heading title1='About' title2='Us'/>
-            <p>Our vocational learning program offers hands-on training in high-demand industries like woodwork,interior decor,
+            <p className='text-start'>Our vocational learning program offers hands-on training in high-demand industries like woodwork,interior decor,
                 fashion designing and other trades. With our industry-relevant curriculum and experienced instructors, you will 
                 gain the skills needed to thrive in your chosen field.
             </p>

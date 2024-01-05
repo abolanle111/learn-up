@@ -26,7 +26,7 @@ const Courses = () => {
                 <CourseCard img={plumbing} title='Plumbing' paragraph='Learn the art of crafting and building structures
                 using wood,from furniture to intricate designs'/>
                 <CourseCard img={interior} title='Interior Design' paragraph='Learn the art of creating aesthetically pleasing and functional
-                spaces,transforming interiors into beautiful and inviting environments'/>
+                spaces,transforming interiors into beautiful and inviting environments' className=""/>
             </div>
     </div>
   )

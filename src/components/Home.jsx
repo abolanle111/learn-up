@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className='min-h-[70vh] flex flex-col md:flex-row md:justify-between items-center md:mx-32 mx-5  mt-10'>
         <div className='md:w-2/4 text-center'>
-            <h2 className='text-5xl font-semibold leading-tight'>Master Skills,Achieve Greatness!</h2>
+            <h2 className='md:text-5xl text-2xl font-semibold leading-tight'>Master Skills,Achieve Greatness!</h2>
 
             <p className='text-start mt-5'>Welcome to our vocational learning institute! Get ready to 
                 embark on an exicting of skill development and career advancement.

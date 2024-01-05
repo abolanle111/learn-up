@@ -9,7 +9,7 @@ const CourseCard = (props) => {
       </div>
       <div>
         <h3 className="font-semibold text-lg text-center my-5">{props.title}</h3>
-        <p className="text-center md:text-start">{props.paragraph}</p>
+        <p className="text-center md:text-start ">{props.paragraph}</p>
       </div>
     </div>
   )
